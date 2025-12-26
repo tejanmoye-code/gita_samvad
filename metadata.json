@@ -1,0 +1,7 @@
+{
+  "name": "Gita संवाद (Gita Samvad)",
+  "description": "A spiritually immersive chat application for conversing with Lord Krishna, grounded strictly in the Bhagavad Gita.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
